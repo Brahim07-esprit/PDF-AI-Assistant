@@ -1,0 +1,9 @@
+streamlit==1.44.1
+langchain-google-genai==2.1.2
+langchain-openai==0.3.12
+langchain-chroma==0.2.3
+langgraph==0.3.24
+pypdf==5.4.0
+python-dotenv
+pymupdf==1.25.5
+tqdm

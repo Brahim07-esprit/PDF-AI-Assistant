@@ -1,0 +1,2174 @@
+[
+  {
+    "image_path": "p001_refidx0.png",
+    "page": 1,
+    "bbox": [
+      -1,
+      0,
+      596,
+      842
+    ],
+    "surrounding_text_snippet": "ZebraHZ\n              and\nTHE DARK ZEBRA\n\n\n\n\n\n                Version 2.9.4\n\n                               18. Sep 2024 \n\n\n\n\n\n    U-HE  • Heckmann Audio GmbH  •  Berlin",
+    "llm_context": "The image likely relates to the software \"ZebraHZ\" and \"THE DARK ZEBRA\" by U-HE (Heckmann Audio GmbH), version 2.9.4, dated September 18, 2024. It's probably a splash screen, logo, or promotional image for the software."
+  },
+  {
+    "image_path": "p001_refidx1.png",
+    "page": 1,
+    "bbox": [
+      238,
+      22,
+      357,
+      92
+    ],
+    "surrounding_text_snippet": "braH",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p001_refidx2.png",
+    "page": 1,
+    "bbox": [
+      85,
+      271,
+      510,
+      571
+    ],
+    "surrounding_text_snippet": "",
+    "llm_context": "Okay, I need the text surrounding the image at index 2 on page 1 of the PDF to provide an analysis. Please provide that text. Once you do, I will analyze the text and describe the image's likely purpose/context concisely."
+  },
+  {
+    "image_path": "p001_refidx3.png",
+    "page": 1,
+    "bbox": [
+      85,
+      570,
+      510,
+      692
+    ],
+    "surrounding_text_snippet": "Version 2.9.4\n\n   18. Sep 2024",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p008_refidx0.png",
+    "page": 8,
+    "bbox": [
+      66,
+      362,
+      142,
+      438
+    ],
+    "surrounding_text_snippet": "Parameter lockin\n\n                Right-\n              from c\n                adjust\n                  in the\n               preset\n  Note: Right-clicking\n  more flexible metho",
+    "llm_context": "The image likely illustrates or explains the \"Right-clicking\" method for adjusting a \"Parameter lockin\" setting, offering a \"more flexible method\" compared to a \"preset\"."
+  },
+  {
+    "image_path": "p008_refidx1.png",
+    "page": 8,
+    "bbox": [
+      70,
+      367,
+      132,
+      428
+    ],
+    "surrounding_text_snippet": "Parameter lock\n\n              Righ\n              from\n               adju\n                  in th\n              pres\n  Note: Right-clicki\n  more fle ible met",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p008_refidx2.png",
+    "page": 8,
+    "bbox": [
+      70,
+      622,
+      132,
+      676
+    ],
+    "surrounding_text_snippet": "Key Control\n\n            Exp\n           men\n               the\n               curs\n               valu\n   Hit backspace to",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p009_refidx0.png",
+    "page": 9,
+    "bbox": [
+      52,
+      88,
+      549,
+      125
+    ],
+    "surrounding_text_snippet": "Upper Bar\n\n\n\n\nSYNTH, PERFORM, PRESETS\nThe buttons on the left select the 3 main windows.",
+    "llm_context": "The image likely shows the upper bar of a software interface, specifically related to synthesizer (SYNTH) performance and preset management."
+  },
+  {
+    "image_path": "p009_refidx1.png",
+    "page": 9,
+    "bbox": [
+      56,
+      92,
+      539,
+      115
+    ],
+    "surrounding_text_snippet": "Upper Bar\n\n\n\n\nSYNTH, PERFORM, PRESETS\nTh  b        h    l  f       l   h  3        i       i d",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p009_refidx2.png",
+    "page": 9,
+    "bbox": [
+      52,
+      720,
+      142,
+      768
+    ],
+    "surrounding_text_snippet": "y            p\n\nBADGE\n                 Clickin\n              user g\n          KVR s\n\n\n\npresets global generators",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p009_refidx3.png",
+    "page": 9,
+    "bbox": [
+      56,
+      724,
+      132,
+      759
+    ],
+    "surrounding_text_snippet": "BADGE\n                Click\n              user\n          KVR",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p009_refidx4.png",
+    "page": 9,
+    "bbox": [
+      56,
+      522,
+      117,
+      573
+    ],
+    "surrounding_text_snippet": "SAVE\n\n            Stor\n          pend\n        PRE\n         nam\n            avoi\nRight clicking on",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p011_refidx0.png",
+    "page": 11,
+    "bbox": [
+      90,
+      234,
+      288,
+      389
+    ],
+    "surrounding_text_snippet": "not process audio, so when placed on top of o\nare simply mixed together.\n\n\n\n\n\n         Lane 1         Lane 2",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p011_refidx1.png",
+    "page": 11,
+    "bbox": [
+      97,
+      241,
+      275,
+      376
+    ],
+    "surrounding_text_snippet": "are simply mixed together.\n\n\n\n\n\n         Lane 1         Lane 2",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p011_refidx2.png",
+    "page": 11,
+    "bbox": [
+      308,
+      502,
+      552,
+      762
+    ],
+    "surrounding_text_snippet": "n the\nct the\n\n\n y the\n and\n\n\n atter\ne1 is\nke its\n\n\n\n evity,\n ar in\npanel\n\n\n\n\n\n     f                fi    t       t                                  11",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p011_refidx3.png",
+    "page": 11,
+    "bbox": [
+      315,
+      509,
+      539,
+      749
+    ],
+    "surrounding_text_snippet": "the\n the\n\n\n the\nand\n\n\n tter\n1 is\ne its\n\n\n\n vity,\n r in\nanel",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p012_refidx0.png",
+    "page": 12,
+    "bbox": [
+      215,
+      126,
+      406,
+      379
+    ],
+    "surrounding_text_snippet": "lect envelopes as well as route signals to the FX\n\n\n grid\n\nutton\n\nelect\n\nance\n\nation\n\n\n lope\n\nlume\n\nation\n\n\n\n\n for each lane In the image above lane 2 is mut",
+    "llm_context": "The image likely illustrates a user interface or diagram related to audio mixing or signal routing, specifically focusing on lane 2 being muted."
+  },
+  {
+    "image_path": "p012_refidx1.png",
+    "page": 12,
+    "bbox": [
+      266,
+      125,
+      407,
+      381
+    ],
+    "surrounding_text_snippet": "opes as well as route signals to the FX\n\n\n\n\n\nane In the image above lane 2 is mut",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p013_refidx0.png",
+    "page": 13,
+    "bbox": [
+      124,
+      142,
+      478,
+      265
+    ],
+    "surrounding_text_snippet": "k COMP1-4 in the lower bar…\n\n\n\n\n\nOff\nave CPU, lane compressors can be switched off.",
+    "llm_context": "The image likely illustrates or relates to the functionality of switching off \"lane compressors\" to save CPU, as mentioned in the surrounding text."
+  },
+  {
+    "image_path": "p013_refidx1.png",
+    "page": 13,
+    "bbox": [
+      125,
+      142,
+      470,
+      255
+    ],
+    "surrounding_text_snippet": "k COMP1-4 in the lower bar…\n\n\n\n\n\nOff",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p014_refidx0.png",
+    "page": 14,
+    "bbox": [
+      49,
+      124,
+      552,
+      486
+    ],
+    "surrounding_text_snippet": "Click on the PERFORM button in the upper bar to open the Performance Window. The\nfour X/Y pads can simultaneously control up to 16 parameters each…\n\n\n\n\n\n               Performance window, with a diffe...",
+    "llm_context": "The image is likely a screenshot of the \"Performance Window\" in a software application, specifically showing the \"XY\" panel. The purpose is to illustrate the user interface and how to access and use the performance controls."
+  },
+  {
+    "image_path": "p014_refidx1.png",
+    "page": 14,
+    "bbox": [
+      56,
+      131,
+      539,
+      473
+    ],
+    "surrounding_text_snippet": "Click on the PERFORM button in the upper bar to open the Performance Window. The\nfour X/Y pads can simultaneously control up to 16 parameters each…\n\n\n\n\n\n               Performance window, with a diffe...",
+    "llm_context": "The image likely illustrates the \"Performance window\" mentioned in the text, specifically highlighting the \"XY\" panel and its role in controlling parameters."
+  },
+  {
+    "image_path": "p014_refidx2.png",
+    "page": 14,
+    "bbox": [
+      56,
+      655,
+      125,
+      695
+    ],
+    "surrounding_text_snippet": "geared towards 2D\n\n                Clic\n              the\n             here\n             ass\nmodulation racks a\n                   ff",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p015_refidx0.png",
+    "page": 15,
+    "bbox": [
+      56,
+      122,
+      472,
+      148
+    ],
+    "surrounding_text_snippet": "The lower bar switches the contents of the lower pane:\n\n\n\n\n  GLOBAL",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p015_refidx1.png",
+    "page": 15,
+    "bbox": [
+      56,
+      288,
+      539,
+      315
+    ],
+    "surrounding_text_snippet": "Additional settings for all 4 FMOs in a single panel. Go there\n\n\n\n\nMSEG1-8",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p016_refidx0.png",
+    "page": 16,
+    "bbox": [
+      56,
+      202,
+      539,
+      454
+    ],
+    "surrounding_text_snippet": "set file from a system window or your desktop and drop  it onto the data display. But of\ncourse Zebra also has a powerful preset browser – click PRESETS in the upper bar:\n\n\n\n\n\n  Layout",
+    "llm_context": "The image likely illustrates Zebra's preset browser functionality, showing users how to access and use presets within the software."
+  },
+  {
+    "image_path": "p019_refidx0.png",
+    "page": 19,
+    "bbox": [
+      252,
+      457,
+      260,
+      464
+    ],
+    "surrounding_text_snippet": "ens a menu c\n\n\n        Mark a\n        Mark a\n        Mark a",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p019_refidx1.png",
+    "page": 19,
+    "bbox": [
+      252,
+      471,
+      260,
+      478
+    ],
+    "surrounding_text_snippet": "Mark a\nMark a\nMark a\nMark a",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p019_refidx2.png",
+    "page": 19,
+    "bbox": [
+      252,
+      484,
+      260,
+      492
+    ],
+    "surrounding_text_snippet": "Mark a\nMark a\nMark a\nMark a\nMark a",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p019_refidx3.png",
+    "page": 19,
+    "bbox": [
+      252,
+      498,
+      260,
+      506
+    ],
+    "surrounding_text_snippet": "Mark a\nMark a\nMark a\nMark a\nMark a",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p019_refidx4.png",
+    "page": 19,
+    "bbox": [
+      252,
+      512,
+      260,
+      520
+    ],
+    "surrounding_text_snippet": "Mark a\nMark a\nMark a\nMark a\nMark a",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p019_refidx5.png",
+    "page": 19,
+    "bbox": [
+      252,
+      526,
+      260,
+      534
+    ],
+    "surrounding_text_snippet": "Mark a\nMark a\nMark a\nMark a\nMark a",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p019_refidx6.png",
+    "page": 19,
+    "bbox": [
+      252,
+      540,
+      260,
+      548
+    ],
+    "surrounding_text_snippet": "Mark a\nMark a\nMark a\nMark a\n\nM  k",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p019_refidx7.png",
+    "page": 19,
+    "bbox": [
+      252,
+      554,
+      260,
+      561
+    ],
+    "surrounding_text_snippet": "Mark a\nMark a\nMark a\n\nMark a",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p019_refidx8.png",
+    "page": 19,
+    "bbox": [
+      252,
+      574,
+      262,
+      584
+    ],
+    "surrounding_text_snippet": "Mark a\n   Mark a\n\n   Mark a\n\nShow Jun",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p019_refidx9.png",
+    "page": 19,
+    "bbox": [
+      170,
+      109,
+      425,
+      392
+    ],
+    "surrounding_text_snippet": "area of the browser shows all presets in the current directory\n\n\n\n\n\n text menu",
+    "llm_context": "Context Description: The image likely illustrates the browser area displaying presets within a directory, possibly for a software application or program."
+  },
+  {
+    "image_path": "p024_refidx0.png",
+    "page": 24,
+    "bbox": [
+      133,
+      127,
+      462,
+      487
+    ],
+    "surrounding_text_snippet": "the TAGS tab to open this view. The buttons here let you specify searc\na few mouse clicks:\n\n\n\n\n\ne Search field are 4 sets of buttons (CATEGORIES, FEATURES, CHAR\nOURITES) The first 3 correspond to the ...",
+    "llm_context": "The image likely illustrates the \"TAGS\" tab and the button sets (CATEGORIES, FEATURES, CHAR...) used for searching within a tagging system, possibly in a software application."
+  },
+  {
+    "image_path": "p025_refidx0.png",
+    "page": 25,
+    "bbox": [
+      143,
+      144,
+      452,
+      362
+    ],
+    "surrounding_text_snippet": "p     y         g\nn, simply enter clock into the Search field and hit Return…\n\n\n\n\n\n rmally looks into the preset name, author, DESCRIPTION and USAG",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p027_refidx0.png",
+    "page": 27,
+    "bbox": [
+      90,
+      117,
+      510,
+      331
+    ],
+    "surrounding_text_snippet": "To open this panel, click on the GLOB/FX tab in the lower bar.\n\n\n\n\n\n                               The global parameters\n\nPITCH",
+    "llm_context": "Based on the surrounding text, the image near index 0 on page 27 is likely a screenshot or illustration related to a software interface, specifically showing the \"GLOB/FX\" tab and a panel containing \"global parameters\" including \"PITCH\". The image's purpose is likely to visually guide the user on how to access and use these global parameters within the software."
+  },
+  {
+    "image_path": "p027_refidx1.png",
+    "page": 27,
+    "bbox": [
+      97,
+      124,
+      498,
+      319
+    ],
+    "surrounding_text_snippet": "o open this panel, click on the GLOB/FX tab in the lower bar.\n\n\n\n\n\n                              The global parameters",
+    "llm_context": "The image likely illustrates the \"GLOB/FX\" tab and the \"global parameters\" panel it opens, probably within a software interface."
+  },
+  {
+    "image_path": "p029_refidx0.png",
+    "page": 29,
+    "bbox": [
+      88,
+      163,
+      513,
+      339
+    ],
+    "surrounding_text_snippet": "In ZebraHZ, the oscillator module looks like this:\n\n\n\n\n\n                        Oscillator panel with the MIXER sub-panel selected\n\nThe button next to the module label is for loading oscillator preset...",
+    "llm_context": "The image is likely a screenshot or illustration of the \"Oscillator panel\" within the ZebraHZ software, specifically showing the \"MIXER\" sub-panel. Its purpose is to visually demonstrate the appearance of this module to the user."
+  },
+  {
+    "image_path": "p029_refidx1.png",
+    "page": 29,
+    "bbox": [
+      95,
+      170,
+      500,
+      326
+    ],
+    "surrounding_text_snippet": "n ZebraHZ, the oscillator module looks like this:\n\n\n\n\n\n                       Oscillator panel with the MIXER sub-panel selected",
+    "llm_context": "The image likely shows the user interface or a diagram of an oscillator module within the ZebraHZ software, specifically highlighting the \"MIXER\" sub-panel. The purpose is likely to illustrate the module's appearance and features."
+  },
+  {
+    "image_path": "p030_refidx0.png",
+    "page": 30,
+    "bbox": [
+      208,
+      360,
+      392,
+      530
+    ],
+    "surrounding_text_snippet": "y   )\n\nreveal this panel:\n\n\n\n\n\n r phase from 0° to 180° (but you can modulate",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p030_refidx1.png",
+    "page": 30,
+    "bbox": [
+      216,
+      368,
+      379,
+      517
+    ],
+    "surrounding_text_snippet": "veal this panel:",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p031_refidx0.png",
+    "page": 31,
+    "bbox": [
+      208,
+      103,
+      392,
+      273
+    ],
+    "surrounding_text_snippet": "to reveal this panel:\n\n\n\n\n\nsubtly or radically altered by two spectral effec\n\nff    t     li k     th    l b  l    f          k  b Ad",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p031_refidx1.png",
+    "page": 31,
+    "bbox": [
+      216,
+      110,
+      379,
+      260
+    ],
+    "surrounding_text_snippet": "o reveal this panel:\n\n\n\n\n\nubtly or radically altered by two spectral ef",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p031_refidx2.png",
+    "page": 31,
+    "bbox": [
+      208,
+      469,
+      392,
+      639
+    ],
+    "surrounding_text_snippet": "o reveal this panel:\n\n\n\n\n\n stereo position to the left or right.",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p031_refidx3.png",
+    "page": 31,
+    "bbox": [
+      216,
+      476,
+      379,
+      626
+    ],
+    "surrounding_text_snippet": "reveal this panel:\n\n\n\n\n\n t                iti     t  th    l  ft        i ht",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p034_refidx0.png",
+    "page": 34,
+    "bbox": [
+      220,
+      127,
+      380,
+      315
+    ],
+    "surrounding_text_snippet": "ator s lower panel is its Wave Editor. On t\nelements...\n\n\n\n\n\nET\nve complete oscillators including all settin",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p034_refidx1.png",
+    "page": 34,
+    "bbox": [
+      227,
+      134,
+      368,
+      302
+    ],
+    "surrounding_text_snippet": "ements...\n\n\n\n\n\nT",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p035_refidx0.png",
+    "page": 35,
+    "bbox": [
+      93,
+      291,
+      508,
+      474
+    ],
+    "surrounding_text_snippet": "g\nTo the right is a sub-panel containing graphic controls for scaling the oscillator gain...\n\n\n\n\n\nKEY SCALE / GAIN\nMIDI note to OSC gain scaling  It can be used to balance oscillator volumes across th...",
+    "llm_context": "The image likely illustrates or demonstrates the \"graphic controls for scaling the oscillator gain\" mentioned in the text. It probably shows how MIDI note values affect oscillator volume, as described in the \"KEY SCALE / GAIN\" section."
+  },
+  {
+    "image_path": "p035_refidx1.png",
+    "page": 35,
+    "bbox": [
+      100,
+      299,
+      495,
+      461
+    ],
+    "surrounding_text_snippet": "To the right is a sub-panel containing graphic controls for scaling the oscillator gain...\n\n\n\n\n\nKEY SCALE / GAIN",
+    "llm_context": "Context: The image likely depicts graphic controls for scaling oscillator gain, as described in the surrounding text. The \"KEY SCALE / GAIN\" likely labels the image or the section it belongs to."
+  },
+  {
+    "image_path": "p036_refidx0.png",
+    "page": 36,
+    "bbox": [
+      56,
+      155,
+      539,
+      196
+    ],
+    "surrounding_text_snippet": "Wave Selector\n\n\n\n\nThe wave selector has almost the same function as the Wave knob in the oscillator’s main\npanel – if you adjust one the other will move accordingly Unlike the Wave knob however",
+    "llm_context": "The image likely depicts a \"Wave Selector\" control, probably within a software or hardware synthesizer interface. The surrounding text describes its function as being similar to a \"Wave knob\" on an oscillator panel, suggesting it's used to select or adjust the waveform of an audio oscillator."
+  },
+  {
+    "image_path": "p037_refidx0.png",
+    "page": 37,
+    "bbox": [
+      91,
+      141,
+      512,
+      285
+    ],
+    "surrounding_text_snippet": "GeoMorph\n\n\n\n\n\n                        A typical GeoMorph wave\n\nGeoMorph mode lets you draw waveforms by positioning up to 32 points and adjusting",
+    "llm_context": "The image likely illustrates a typical waveform that can be created or manipulated using the \"GeoMorph\" mode described in the text."
+  },
+  {
+    "image_path": "p037_refidx1.png",
+    "page": 37,
+    "bbox": [
+      98,
+      146,
+      499,
+      274
+    ],
+    "surrounding_text_snippet": "eoMorph\n\n\n\n\n\n                       A typical GeoMorph wave",
+    "llm_context": "Context: The image likely illustrates a \"GeoMorph wave,\" possibly a type of wave formation or phenomenon studied in geomorphology."
+  },
+  {
+    "image_path": "p037_refidx2.png",
+    "page": 37,
+    "bbox": [
+      91,
+      395,
+      515,
+      538
+    ],
+    "surrounding_text_snippet": "SpectroMorph\n\n\n\n\n\n                       A typical SpectroMorph wave\n\nAlthough it looks and feels like GeoMorph SpectroMorph is very different  It does not rep",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p037_refidx3.png",
+    "page": 37,
+    "bbox": [
+      98,
+      399,
+      502,
+      529
+    ],
+    "surrounding_text_snippet": "pectroMorph\n\n\n\n\n\n                      A typical SpectroMorph wave",
+    "llm_context": "Context: The image likely illustrates a \"SpectroMorph wave,\" possibly for a scientific or technical document explaining SpectroMorph technology."
+  },
+  {
+    "image_path": "p038_refidx0.png",
+    "page": 38,
+    "bbox": [
+      94,
+      469,
+      507,
+      609
+    ],
+    "surrounding_text_snippet": "GeoBlend\n\n\n\n\n\n                         A typical GeoBlend wave\n\nA single cycle is defined by 128 columns GeoBlend is similar to GeoMorph in that  it re-",
+    "llm_context": "The image likely illustrates a \"GeoBlend wave,\" as described in the surrounding text. It's probably a visual representation of the GeoBlend technique, possibly showing a single cycle defined by 128 columns."
+  },
+  {
+    "image_path": "p038_refidx1.png",
+    "page": 38,
+    "bbox": [
+      101,
+      473,
+      494,
+      599
+    ],
+    "surrounding_text_snippet": "eoBlend\n\n\n\n\n\n                       A typical GeoBlend wave",
+    "llm_context": "The image likely illustrates a \"GeoBlend wave,\" possibly a visual representation of data or a phenomenon related to GeoBlend technology."
+  },
+  {
+    "image_path": "p039_refidx0.png",
+    "page": 39,
+    "bbox": [
+      92,
+      75,
+      508,
+      222
+    ],
+    "surrounding_text_snippet": "SpectroBlend\n\n\n\n\n\n                       A typical SpectroBlend wave\n\nThe spectrum is represented by 128 bipolar columns Similar to SpectroMorph except that",
+    "llm_context": "The image likely illustrates a \"SpectroBlend wave,\" representing a spectrum with 128 bipolar columns, possibly for audio or signal processing."
+  },
+  {
+    "image_path": "p039_refidx1.png",
+    "page": 39,
+    "bbox": [
+      99,
+      82,
+      496,
+      209
+    ],
+    "surrounding_text_snippet": "pectroBlend\n\n\n\n\n\n                      A typical SpectroBlend wave",
+    "llm_context": "The image likely illustrates a typical wave produced by a SpectroBlend device or process. The text \"A typical SpectroBlend wave\" directly suggests this."
+  },
+  {
+    "image_path": "p040_refidx0.png",
+    "page": 40,
+    "bbox": [
+      80,
+      134,
+      521,
+      318
+    ],
+    "surrounding_text_snippet": "to the famous Yamaha DX7. Compare the Zebra2 preset HS DY7 Add Pad with the typical\nDX7 e-piano sounds of the 1980s, which were often layered with analogue pads.\n\n\n\n\n\n                                 ...",
+    "llm_context": "The image likely depicts the FMO (Frequency Modulation Oscillator) module panel of the Zebra2 synthesizer, being compared to the Yamaha DX7 synthesizer in the surrounding text. The text discusses the DX7's e-piano sounds and their layering with analogue pads, suggesting the image illustrates a feature of Zebra2 that allows for similar sound design techniques."
+  },
+  {
+    "image_path": "p040_refidx1.png",
+    "page": 40,
+    "bbox": [
+      87,
+      141,
+      508,
+      305
+    ],
+    "surrounding_text_snippet": "to the famous Yamaha DX7. Compare the Zebra2 preset HS DY7 Add Pad with the typical\nDX7 e-piano sounds of the 1980s, which were often layered with analogue pads.\n\n\n\n\n\n                                 ...",
+    "llm_context": "The image likely depicts the FMO (Frequency Modulation Oscillator) module panel of the Zebra2 synthesizer, possibly to illustrate its capabilities in recreating or emulating sounds similar to those of the Yamaha DX7."
+  },
+  {
+    "image_path": "p041_refidx0.png",
+    "page": 41,
+    "bbox": [
+      63,
+      253,
+      538,
+      443
+    ],
+    "surrounding_text_snippet": "Like the standard oscillators, the FMOs use the lower panel for some extra parameters.\nUnlike the standard oscillators, all four FMOs share the same panel…\n\n\n\n\n\n                             part of th...",
+    "llm_context": "The image is likely a screenshot or diagram illustrating a portion of the FMO (Frequency Modulation Oscillator) parameter panel within a software interface, highlighting controls related to parameters like \"G\", \"t\", \"M\", \"d\", \"f\", and \"hi\". The text suggests it's being compared to standard oscillators and emphasizes the shared panel design among the four FMO types."
+  },
+  {
+    "image_path": "p041_refidx1.png",
+    "page": 41,
+    "bbox": [
+      70,
+      260,
+      525,
+      430
+    ],
+    "surrounding_text_snippet": "Like the standard oscillators, the FMOs use the lower panel for some extra parameters.\nUnlike the standard oscillators, all four FMOs share the same panel…\n\n\n\n\n\n                             part of th...",
+    "llm_context": "The image likely shows a portion of the FMO (Frequency Modulation Oscillator) parameter panel located in the lower section of a user interface."
+  },
+  {
+    "image_path": "p042_refidx0.png",
+    "page": 42,
+    "bbox": [
+      90,
+      113,
+      511,
+      263
+    ],
+    "surrounding_text_snippet": "Noise has traditionally been used for percussive sounds, wind effects, explosions etc..\n\n\n\n\n\n                                         the Noise module\n\n  TYPE (unlabelled)",
+    "llm_context": "Context: The image likely depicts a \"Noise module\" used in audio synthesis or sound design, given the surrounding text discussing the traditional uses of noise in sound effects."
+  },
+  {
+    "image_path": "p042_refidx1.png",
+    "page": 42,
+    "bbox": [
+      97,
+      120,
+      498,
+      250
+    ],
+    "surrounding_text_snippet": "oise has traditionally been used for percussive sounds, wind effects, explosions etc..\n\n\n\n\n\n                                       the Noise module",
+    "llm_context": "Context: The image likely depicts the \"Noise module\" being discussed, which is used for creating percussive sounds, wind effects, and explosions."
+  },
+  {
+    "image_path": "p043_refidx0.png",
+    "page": 43,
+    "bbox": [
+      89,
+      137,
+      511,
+      251
+    ],
+    "surrounding_text_snippet": "models sound almost as ‘alive’ as their analogue forbears, so the name stuck. These\nmodels are less CPU-hungry than XMF (see 2 pages down).\n\n\n\n\n\n                          VCF module panel\n\nFilt  T",
+    "llm_context": "The image on page 43 near the provided text is likely a visual representation of a VCF (Voltage Controlled Filter) module panel. The text mentions \"VCF module panel\" directly above the \"Filt T\" label, suggesting the image illustrates the interface or layout of such a module, possibly within a music production or audio engineering context."
+  },
+  {
+    "image_path": "p043_refidx1.png",
+    "page": 43,
+    "bbox": [
+      95,
+      144,
+      500,
+      238
+    ],
+    "surrounding_text_snippet": "g                   ,\nmodels are less CPU-hungry than XMF (see 2 pages down).\n\n\n\n\n\n                          VCF module panel",
+    "llm_context": "Context: The image (likely on page 43) is a \"VCF module panel.\" The surrounding text suggests it's being compared to XMF models in terms of CPU usage. Therefore, the image likely illustrates the user interface or functionality of a VCF module, possibly within a software application."
+  },
+  {
+    "image_path": "p045_refidx0.png",
+    "page": 45,
+    "bbox": [
+      89,
+      133,
+      512,
+      310
+    ],
+    "surrounding_text_snippet": "self-oscillation, input-dependent distortion and audio-rate FM via the extra input. The XMF\ns more CPU-intensive than any of the VCF models.\n\n\n\n\n\n                        XMF module panel\n\nThere are 15...",
+    "llm_context": "The image likely depicts the user interface or a visual representation of the \"XMF module panel\" being described, showcasing its controls and layout. It's probably part of a manual or documentation explaining the features of a software or hardware audio effect."
+  },
+  {
+    "image_path": "p045_refidx1.png",
+    "page": 45,
+    "bbox": [
+      96,
+      140,
+      499,
+      298
+    ],
+    "surrounding_text_snippet": "elf-oscillation, input-dependent distortion and audio-rate FM via the extra input. The XM\n more CPU-intensive than any of the VCF models.\n\n\n\n\n\n                       XMF module panel",
+    "llm_context": "The image (index 1) on page 45 is likely a picture of the panel of an \"XMF module,\" a type of audio processing module. The surrounding text discusses its features, including self-oscillation, input-dependent distortion, audio-rate FM, and its relatively high CPU usage compared to other VCF models."
+  },
+  {
+    "image_path": "p047_refidx0.png",
+    "page": 47,
+    "bbox": [
+      71,
+      193,
+      180,
+      233
+    ],
+    "surrounding_text_snippet": "Note: These filters are very\n\n                          Alto\n                    and\n                        the D\n\nGeneral settings",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p047_refidx1.png",
+    "page": 47,
+    "bbox": [
+      162,
+      528,
+      440,
+      668
+    ],
+    "surrounding_text_snippet": "m button generates new random values for CUTOFF SLOP.\n\n\n\n\n\n  The Diva general settings (left) and highpass filter (right) panels",
+    "llm_context": "The image likely shows the settings panels for the Diva synthesizer, specifically the general settings panel on the left and the highpass filter panel on the right. The text describes the function of a button related to the CUTOFF and SLOP parameters, suggesting these are adjustable within the depicted panels."
+  },
+  {
+    "image_path": "p047_refidx2.png",
+    "page": 47,
+    "bbox": [
+      164,
+      528,
+      431,
+      658
+    ],
+    "surrounding_text_snippet": "m button generates new random values for CUTOFF SLOP.\n\n\n\n\n\n  The Diva general settings (left) and highpass filter (right) panels",
+    "llm_context": "The image likely illustrates the Diva synthesizer's general settings panel (on the left) and its highpass filter panel (on the right)."
+  },
+  {
+    "image_path": "p048_refidx0.png",
+    "page": 48,
+    "bbox": [
+      69,
+      225,
+      547,
+      350
+    ],
+    "surrounding_text_snippet": ",                      |                pp                  (        )\ndepths for Cutoff while the lower one is for resonance.\n\n\n\n\n\nMODEL / MODE\nThe Ladder model is a classic 24dB or 12dB per octave f...",
+    "llm_context": "Context: The image likely illustrates the \"Ladder model\" filter described in the text, possibly showing its frequency response or circuit diagram."
+  },
+  {
+    "image_path": "p048_refidx1.png",
+    "page": 48,
+    "bbox": [
+      70,
+      225,
+      539,
+      340
+    ],
+    "surrounding_text_snippet": ",                      |                pp                  (        )\ndepths for Cutoff while the lower one is for resonance.\n\n\n\n\n\nMODEL / MODE",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p048_refidx2.png",
+    "page": 48,
+    "bbox": [
+      69,
+      550,
+      547,
+      675
+    ],
+    "surrounding_text_snippet": "BP ..................... bandpass\n\n\n\n\n\nBITE sounds very different – it’s a real character! The tone is highly dependent on the\ninput signal levels, on the selected REVISION as well as on the resonance...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p048_refidx3.png",
+    "page": 48,
+    "bbox": [
+      70,
+      551,
+      539,
+      665
+    ],
+    "surrounding_text_snippet": "BP ..................... bandpass\n\n\n\n\n\nBITE sounds very different – it’s a real character! The tone is highly dependent on the",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p049_refidx0.png",
+    "page": 49,
+    "bbox": [
+      89,
+      137,
+      512,
+      345
+    ],
+    "surrounding_text_snippet": "short impulse, feedback can turn it into a slowly decaying (or even sustaining) tone. The\nfrequency response curve resembles a regular row of spikes, hence the name.\n\n\n\n\n\n                           Co...",
+    "llm_context": "The image likely depicts the control panel of a \"Comb module,\" a component used in audio synthesis. The surrounding text discusses how this module can create effects like slowly decaying tones and flangers, and simulate string instruments."
+  },
+  {
+    "image_path": "p049_refidx1.png",
+    "page": 49,
+    "bbox": [
+      96,
+      144,
+      499,
+      332
+    ],
+    "surrounding_text_snippet": "p       ,                              y     y g (                 g)\nequency response curve resembles a regular row of spikes, hence the name.\n\n\n\n\n\n                          Comb module panel",
+    "llm_context": "Context: The image likely depicts a \"Comb module panel\" used in audio processing or signal processing, given the reference to a \"comb\" frequency response curve (spikes)."
+  },
+  {
+    "image_path": "p050_refidx0.png",
+    "page": 50,
+    "bbox": [
+      88,
+      194,
+      513,
+      337
+    ],
+    "surrounding_text_snippet": "Main controls\n\n\n\n\n\n                         Comb panel, main controls\n\n  PRE FILL",
+    "llm_context": "The image likely depicts a control panel, specifically the \"main controls\" and a \"comb panel,\" possibly related to a \"PRE FILL\" function. The image's purpose is likely to illustrate or explain the layout and function of these controls."
+  },
+  {
+    "image_path": "p050_refidx1.png",
+    "page": 50,
+    "bbox": [
+      95,
+      201,
+      500,
+      324
+    ],
+    "surrounding_text_snippet": "Main controls\n\n\n\n\n\n                         Comb panel, main controls",
+    "llm_context": "The image likely shows the main controls of a \"comb panel,\" possibly a control panel for a machine or system that uses a comb-like mechanism."
+  },
+  {
+    "image_path": "p051_refidx0.png",
+    "page": 51,
+    "bbox": [
+      83,
+      100,
+      517,
+      186
+    ],
+    "surrounding_text_snippet": "Sound controls\n\n   Click on the Sound button…\n\n\n\n\n\n                       Comb panel, SOUND sub-panel\n  TONE\n  The f nction of this parameter changes from mode to mode Us  all  a ratio bet een",
+    "llm_context": "The image likely depicts a user interface element, specifically a \"SOUND sub-panel\" within a \"Comb panel,\" related to audio settings. The text mentions \"Sound controls,\" a \"Sound button,\" and a \"TONE\" parameter that changes function depending on the mode. This suggests the image is a screenshot or diagram illustrating audio settings within a software application or device."
+  },
+  {
+    "image_path": "p051_refidx1.png",
+    "page": 51,
+    "bbox": [
+      90,
+      107,
+      505,
+      173
+    ],
+    "surrounding_text_snippet": "Click on the Sound button…\n\n\n\n\n\n                     Comb panel, SOUND sub-panel\nTONE",
+    "llm_context": "Context: The image likely illustrates the \"SOUND\" sub-panel of a \"Comb panel\" within a software interface, possibly for audio editing or sound design. The text \"Click on the Sound button…\" suggests the image is part of a tutorial or instruction manual."
+  },
+  {
+    "image_path": "p051_refidx2.png",
+    "page": 51,
+    "bbox": [
+      89,
+      465,
+      531,
+      551
+    ],
+    "surrounding_text_snippet": "p\n\nClick on the Output button\n\n\n\n\n\n                    Comb panel, OUTPUT sub-panel\nVOLUME\nC  b     t    t  l       l C     f  l! If thi     h            ith   th    h   d   l  ti              i      ...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p051_refidx3.png",
+    "page": 51,
+    "bbox": [
+      97,
+      472,
+      518,
+      539
+    ],
+    "surrounding_text_snippet": "Click on the Output button\n\n\n\n\n\n                    Comb panel, OUTPUT sub-panel\nVOLUME",
+    "llm_context": "Based on the surrounding text \"Comb panel, OUTPUT sub-panel\" and \"VOLUME\", the image at index 3 on page 51 likely depicts a user interface element related to audio output settings, specifically volume control within a \"Comb panel\".\n\n**Likely Purpose/Context:** Audio output settings/volume control UI element."
+  },
+  {
+    "image_path": "p052_refidx0.png",
+    "page": 52,
+    "bbox": [
+      88,
+      177,
+      512,
+      291
+    ],
+    "surrounding_text_snippet": "times). While the ‘beating’ between two detuned oscillators can become irritatingly fast\nwhen you play higher up the keyboard, frequency shifting remains constant.\n\n\n\n\n\n                               ...",
+    "llm_context": "Based on the surrounding text and the label \"SideBand module panel\" directly below the image, the image likely depicts the **interface or a visual representation of a SideBand module, possibly within a music production or audio processing context.** The text discusses detuned oscillators and frequency shifting, which are relevant concepts in sideband modulation."
+  },
+  {
+    "image_path": "p052_refidx1.png",
+    "page": 52,
+    "bbox": [
+      95,
+      184,
+      500,
+      278
+    ],
+    "surrounding_text_snippet": "mes). While the beating between two detuned oscillators can become irritatingly fa\nhen you play higher up the keyboard, frequency shifting remains constant.\n\n\n\n\n\n                               SideBan...",
+    "llm_context": "Context Description: The image is likely a panel for a \"SideBand module,\" possibly related to audio synthesis or music production, given the mention of oscillators, frequency shifting, and keyboard."
+  },
+  {
+    "image_path": "p053_refidx0.png",
+    "page": 53,
+    "bbox": [
+      88,
+      107,
+      513,
+      221
+    ],
+    "surrounding_text_snippet": "Input level dependent distortion unit with a choice of 4 algorithms.\n\n\n\n\n\n                                  Shaper module panel\n\n  TYPE",
+    "llm_context": "Based on the surrounding text, the image near index 0 on page 53 is likely a **panel or interface diagram for a \"Shaper module,\" possibly an audio effect or synthesizer component, showcasing a \"TYPE\" selection and an \"Input level dependent distortion unit.\"**"
+  },
+  {
+    "image_path": "p053_refidx1.png",
+    "page": 53,
+    "bbox": [
+      95,
+      114,
+      500,
+      208
+    ],
+    "surrounding_text_snippet": "put level dependent distortion unit with a choice of 4 algorithms.\n\n\n\n\n\n                                Shaper module panel\n\n TYPE",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p054_refidx0.png",
+    "page": 54,
+    "bbox": [
+      71,
+      165,
+      530,
+      287
+    ],
+    "surrounding_text_snippet": "input amp → pre tilt filter → distortion → post tilt filter → post filter → output amp\n\n\n\n\n\n                                     Distortion module panel",
+    "llm_context": "The image likely depicts a distortion module panel, possibly for audio equipment or software, based on the surrounding text describing a signal processing chain involving distortion and filters."
+  },
+  {
+    "image_path": "p054_refidx1.png",
+    "page": 54,
+    "bbox": [
+      78,
+      172,
+      517,
+      274
+    ],
+    "surrounding_text_snippet": "Distortion module panel",
+    "llm_context": "Context: The image likely depicts the control panel or interface of a \"Distortion module,\" which is probably a piece of audio equipment or software used to create distortion effects in sound."
+  },
+  {
+    "image_path": "p056_refidx0.png",
+    "page": 56,
+    "bbox": [
+      203,
+      158,
+      421,
+      462
+    ],
+    "surrounding_text_snippet": "m harmonically related, so ring modulation is often u\n t results, use sine waves – FMOs and/or SpectroBlen\n\n\n\n\n\ndulators in Zebra don’t require a panel, they do need\n t shows the context menu of a rig...",
+    "llm_context": "The image likely illustrates the context menu of a \"Ring1\" control within the Zebra software, related to ring modulation."
+  },
+  {
+    "image_path": "p056_refidx1.png",
+    "page": 56,
+    "bbox": [
+      210,
+      165,
+      409,
+      449
+    ],
+    "surrounding_text_snippet": "results, use sine waves – FMOs and/or SpectroB\n\n\n\n\n\nulators in Zebra don’t require a panel, they do ne",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p057_refidx0.png",
+    "page": 57,
+    "bbox": [
+      100,
+      143,
+      525,
+      253
+    ],
+    "surrounding_text_snippet": "odulation target) or for reducing the stereo width of a signal: Select Pan Mono mode\n d set MIX to 100 – you will only hear the sidechain signal now, at dead centre.\n\n\n\n\n\n                             ...",
+    "llm_context": "The image likely depicts the user interface or a visual representation of a \"Mix module panel\" related to audio processing, specifically for adjusting stereo width or using a sidechain signal."
+  },
+  {
+    "image_path": "p057_refidx1.png",
+    "page": 57,
+    "bbox": [
+      107,
+      150,
+      512,
+      240
+    ],
+    "surrounding_text_snippet": "set MIX to 100 – you will only hear the sidechain signal now, at dead centre.\n\n\n\n\n\n                            Mix module panel",
+    "llm_context": "The image likely depicts the control panel of a \"Mix module,\" which allows the user to blend the original signal with a sidechain signal. The text describes setting the \"MIX\" parameter to 100, meaning only the sidechain signal will be heard."
+  },
+  {
+    "image_path": "p058_refidx0.png",
+    "page": 58,
+    "bbox": [
+      89,
+      136,
+      512,
+      291
+    ],
+    "surrounding_text_snippet": "back on itself multiple times. Like hardware units, Zebra’s FOLD module sounds best\nwhen applied to signals with very little high frequency content – try a pure FMO sine first!\n\n\n\n\n\n                  ...",
+    "llm_context": "The image likely illustrates the effect of different parameter settings (ripples, folds, bias, slope) on the output of Zebra's FOLD module, a sound processing effect."
+  },
+  {
+    "image_path": "p058_refidx1.png",
+    "page": 58,
+    "bbox": [
+      96,
+      143,
+      499,
+      278
+    ],
+    "surrounding_text_snippet": "ack on itself multiple times. Like hardware units, Zebra s FOLD module sounds be\nhen applied to signals with very little high frequency content – try a pure FMO sine first!\n\n\n\n\n\n                  6 ri...",
+    "llm_context": "The image likely illustrates the effect of Zebra's FOLD module on a sine wave, showing the resulting waveform with 6 ripples, 22% folds, 30% bias, and maximum slope. The text describes the module's behavior and suggests using a sine wave as input."
+  },
+  {
+    "image_path": "p060_refidx0.png",
+    "page": 60,
+    "bbox": [
+      267,
+      319,
+      552,
+      539
+    ],
+    "surrounding_text_snippet": "d. Because drag & drop(see below) uses left-click, open-\n s requires a right-click.\n\nEnv2\n ulat-\n you\n\n\n ulat-\never,\nd by\n  t of\n less\n el is\n00%\n gnal\n  the\n\n\n\n  a target from the menu. Left-click on...",
+    "llm_context": "The image likely demonstrates or explains how to select a target within the Env2 environment, contrasting drag-and-drop (left-click) with opening something (right-click)."
+  },
+  {
+    "image_path": "p060_refidx1.png",
+    "page": 60,
+    "bbox": [
+      274,
+      326,
+      539,
+      527
+    ],
+    "surrounding_text_snippet": "requires a right-click.\n\nnv2\n at-\nyou\n\n\n at-\nver,\n by\n  of\ness\n l is\n0%\n nal\nthe\n\n\n\n               f                             f",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p061_refidx0.png",
+    "page": 61,
+    "bbox": [
+      88,
+      122,
+      512,
+      237
+    ],
+    "surrounding_text_snippet": "When you load init, envelope 1 is already visible in the modulators pane because in this\npreset it is designated as the audio envelope for all 4 lanes of the main grid.\n\n\n\n\n\n                          ...",
+    "llm_context": "Context: The image likely illustrates the \"ENV module in v-slope mode\" mentioned in the caption, and is used to explain its features and how it functions within the context of audio modulation."
+  },
+  {
+    "image_path": "p061_refidx1.png",
+    "page": 61,
+    "bbox": [
+      95,
+      129,
+      500,
+      224
+    ],
+    "surrounding_text_snippet": "When you load init, envelope 1 is already visible in the modulators pane because in th\n reset it is designated as the audio envelope for all 4 lanes of the main grid.\n\n\n\n\n\n                           a...",
+    "llm_context": "The image likely illustrates an \"ENV module in v-slope mode,\" probably within a software or hardware synthesizer environment, based on the surrounding text discussing envelopes and modulators."
+  },
+  {
+    "image_path": "p063_refidx0.png",
+    "page": 63,
+    "bbox": [
+      88,
+      559,
+      513,
+      768
+    ],
+    "surrounding_text_snippet": "VEL SCALE and KEY SCALE\n  To see these controls, click on the [+] icon in the top righthand corner of the panel.\n\n\n\n\n\n                   ENV module, with scaling sub-panel open\n\npresets global gens mo...",
+    "llm_context": "The image likely illustrates the \"ENV module\" within a software interface, specifically showing the \"scaling sub-panel\" that is accessed by clicking the [+] icon. The purpose is likely to demonstrate the location and appearance of these controls within the software."
+  },
+  {
+    "image_path": "p063_refidx1.png",
+    "page": 63,
+    "bbox": [
+      95,
+      566,
+      500,
+      755
+    ],
+    "surrounding_text_snippet": "To see these controls, click on the [+] icon in the top righthand corner of the panel.\n\n\n\n\n\n                 ENV module, with scaling sub-panel open",
+    "llm_context": "The image likely illustrates the user interface of an \"ENV module,\" specifically showing the scaling sub-panel. The text instructs the user on how to access the controls shown in the image."
+  },
+  {
+    "image_path": "p064_refidx0.png",
+    "page": 64,
+    "bbox": [
+      49,
+      178,
+      552,
+      289
+    ],
+    "surrounding_text_snippet": "The Multi Stage Envelope Generator is a complex modulation source offering total shape\ncontrol as well as continuous rate control. Click on the MSEG 1 button in the lower bar…\n\n\n\n\n\nMany different uses...",
+    "llm_context": "The image likely illustrates the Multi Stage Envelope Generator (MSEG) in Zebra2, possibly showing its interface or a specific configuration used for creating rhythmic effects."
+  },
+  {
+    "image_path": "p064_refidx1.png",
+    "page": 64,
+    "bbox": [
+      56,
+      185,
+      539,
+      276
+    ],
+    "surrounding_text_snippet": "The Multi Stage Envelope Generator is a complex modulation source offering total shape\ncontrol as well as continuous rate control. Click on the MSEG 1 button in the lower bar…\n\n\n\n\n\nMany different uses...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p066_refidx0.png",
+    "page": 66,
+    "bbox": [
+      90,
+      487,
+      511,
+      602
+    ],
+    "surrounding_text_snippet": "Alongside envelopes, low frequency oscillators represent THE classic modulators – for\nvibrato or any cyclic movement e.g. a slowly drifting tonal change:\n\n\n\n\n\n          The frequency is host-synchroni...",
+    "llm_context": "The image likely illustrates a low frequency oscillator (LFO) being used for modulation, possibly within a music production or synthesis context. The text mentions vibrato, cyclic movement, and tonal changes, all common applications of LFOs in audio. The caption suggests a specific type of LFO (\"voice\" or polyphonic) with host synchronization and a random restart phase."
+  },
+  {
+    "image_path": "p066_refidx1.png",
+    "page": 66,
+    "bbox": [
+      97,
+      494,
+      498,
+      589
+    ],
+    "surrounding_text_snippet": "g         p        q    y            p\nbrato or any cyclic movement e.g. a slowly drifting tonal change:\n\n\n\n\n\n        The frequency is host-synchronized here, but the RESTART phase is random",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p067_refidx0.png",
+    "page": 67,
+    "bbox": [
+      62,
+      219,
+      483,
+      359
+    ],
+    "surrounding_text_snippet": "rand glide ............ random curves\nuser ........................ up to 32 steps, user-drawn:",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p067_refidx1.png",
+    "page": 67,
+    "bbox": [
+      70,
+      226,
+      471,
+      346
+    ],
+    "surrounding_text_snippet": "rand glide ............ random curves\nuser ........................ up to 32 steps, user-drawn:",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p067_refidx2.png",
+    "page": 67,
+    "bbox": [
+      62,
+      347,
+      484,
+      487
+    ],
+    "surrounding_text_snippet": "SYNC (see below) specifies the length of each step, which means that a complete c\nin the upper example would be 16 * 1/16 = 1 bar in 4/4 time.",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p067_refidx3.png",
+    "page": 67,
+    "bbox": [
+      70,
+      354,
+      471,
+      474
+    ],
+    "surrounding_text_snippet": "SYNC (see below) specifies the length of each step, which means that a complet\nin the upper example would be 16 * 1/16 = 1 bar in 4/4 time",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p068_refidx0.png",
+    "page": 68,
+    "bbox": [
+      89,
+      271,
+      512,
+      386
+    ],
+    "surrounding_text_snippet": "The “LFO Global” module is simpler than the normal LFO: The assignable knobs and the\nDelay are missing, and the LFOG doesn’t restart per voice – it is practically ‘monophonic’.\n\n\n\n\n\n       LFOG module...",
+    "llm_context": "The image likely illustrates the \"LFOG module\" described in the text, showcasing a triangle wave synced to beats and retriggered every 3 bars. It serves to visually represent the module's functionality and waveform."
+  },
+  {
+    "image_path": "p068_refidx1.png",
+    "page": 68,
+    "bbox": [
+      96,
+      278,
+      499,
+      374
+    ],
+    "surrounding_text_snippet": "p                           g\nelay are missing, and the LFOG doesn’t restart per voice – it is practically ‘monophonic’\n\n\n\n\n\n      LFOG module, triangle wave, synced to ‘beats’ and retriggered every 3...",
+    "llm_context": "Context: The image likely depicts the LFOG module described in the text, showcasing its triangle wave output and synchronization to musical beats. It's probably part of a discussion about the module's functionality and limitations (e.g., \"practically 'monophonic'\")."
+  },
+  {
+    "image_path": "p069_refidx0.png",
+    "page": 69,
+    "bbox": [
+      236,
+      83,
+      552,
+      199
+    ],
+    "surrounding_text_snippet": "s are\nwhich\nefined\n ariety\n djust-\n n the\ne...\n                The map used in HS Ligetimat\n\n  Old",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p069_refidx1.png",
+    "page": 69,
+    "bbox": [
+      243,
+      91,
+      539,
+      186
+    ],
+    "surrounding_text_snippet": "are\nhich\nined\nriety\njust-\n the\n..\n              The map used in HS Ligetimat",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p069_refidx2.png",
+    "page": 69,
+    "bbox": [
+      236,
+      220,
+      552,
+      336
+    ],
+    "surrounding_text_snippet": "The map used in HS Ligetimat\n\ns. Old\n mber\n uning\ns also\nh one.\nsix  of\n\n\n               One of the maps used in HS Poppington\n\n  l  ti",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p069_refidx3.png",
+    "page": 69,
+    "bbox": [
+      243,
+      227,
+      539,
+      323
+    ],
+    "surrounding_text_snippet": "The map used in HS Ligetimat\n\n Old\nmber\n ning\n also\n one.\nx  of\n\n\n              One of the maps used in HS Poppington",
+    "llm_context": "The image at index 3 on page 69 is likely a map used in either \"HS Ligetimat\" or \"HS Poppington\"."
+  },
+  {
+    "image_path": "p069_refidx4.png",
+    "page": 69,
+    "bbox": [
+      236,
+      357,
+      552,
+      473
+    ],
+    "surrounding_text_snippet": "One of the maps used in HS Poppington\n\n lation\ne, the\n tered:\n   until\nnough\ne  the\n\n\n                The map used in e.g. HS Seed",
+    "llm_context": "The image near this text is likely a map used in a game or project called \"HS Poppington\" or \"HS Seed\". The text suggests it's an example of a map used in these contexts."
+  },
+  {
+    "image_path": "p069_refidx5.png",
+    "page": 69,
+    "bbox": [
+      243,
+      365,
+      539,
+      460
+    ],
+    "surrounding_text_snippet": "One of the maps used in HS Poppington\n\nation\n  the\n red:\n until\nough\n  the\n\n\n               The map used in e.g. HS Seed",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p071_refidx0.png",
+    "page": 71,
+    "bbox": [
+      234,
+      458,
+      262,
+      487
+    ],
+    "surrounding_text_snippet": "The three M\n\n\nAll 3 modulation",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p071_refidx1.png",
+    "page": 71,
+    "bbox": [
+      90,
+      117,
+      511,
+      242
+    ],
+    "surrounding_text_snippet": "Zebra’s Modulation Mixer processes up to 3 modulation sources in one of three ways...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p071_refidx2.png",
+    "page": 71,
+    "bbox": [
+      97,
+      124,
+      498,
+      229
+    ],
+    "surrounding_text_snippet": "ebra s Modulation Mixer processes up to 3 modulation sources in one of three ways...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p071_refidx3.png",
+    "page": 71,
+    "bbox": [
+      90,
+      229,
+      511,
+      354
+    ],
+    "surrounding_text_snippet": "",
+    "llm_context": "Okay, I need the text surrounding the image at index 3 on page 71 of the PDF to provide an analysis.  Please provide that text. Once you do, I will analyze the text and describe the image's likely purpose and context."
+  },
+  {
+    "image_path": "p071_refidx4.png",
+    "page": 71,
+    "bbox": [
+      97,
+      236,
+      498,
+      342
+    ],
+    "surrounding_text_snippet": "",
+    "llm_context": "Okay, I need the text surrounding the image at index 4 on page 71 of the PDF to analyze it. Please provide that text. Once you provide the text, I will analyze it and describe the image's likely purpose/context concisely."
+  },
+  {
+    "image_path": "p071_refidx5.png",
+    "page": 71,
+    "bbox": [
+      90,
+      341,
+      511,
+      467
+    ],
+    "surrounding_text_snippet": "The three MMIX modes\n\nMODE",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p071_refidx6.png",
+    "page": 71,
+    "bbox": [
+      97,
+      349,
+      498,
+      454
+    ],
+    "surrounding_text_snippet": "The three MMIX modes",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p072_refidx0.png",
+    "page": 72,
+    "bbox": [
+      150,
+      269,
+      450,
+      475
+    ],
+    "surrounding_text_snippet": "ut of course not per voice: Shape, Mix, Ring, VCF, SB, XMF and Dis\nFX, Delay, Rev, Comp, EQ, Res and NuRev, are described below.\n\n\n\n\n\n               FX Grid with example routing\n\n    t    l",
+    "llm_context": "The image likely illustrates an example routing configuration within an effects (FX) grid, possibly for audio processing or synthesis."
+  },
+  {
+    "image_path": "p072_refidx1.png",
+    "page": 72,
+    "bbox": [
+      157,
+      276,
+      438,
+      462
+    ],
+    "surrounding_text_snippet": "t of course not per voice: Shape, Mix, Ring, VCF, SB, XMF and\nX, Delay, Rev, Comp, EQ, Res and NuRev, are described below.\n\n\n\n\n\n              FX Grid with example routing",
+    "llm_context": "The image at index 1 on page 72 likely depicts an FX Grid, possibly a visual representation of audio effects routing within a software or hardware system. The surrounding text mentions various audio effects (Delay, Rev, Comp, EQ, etc.) and routing (\"Shape, Mix, Ring, VCF, SB, XMF and X\")."
+  },
+  {
+    "image_path": "p073_refidx0.png",
+    "page": 73,
+    "bbox": [
+      92,
+      251,
+      509,
+      436
+    ],
+    "surrounding_text_snippet": "Analogue purists may shudder at the mention of built-in chorus (which suggests a lack of\n beef’ in other departments), but we believe no synthesizer should be without one:\n\n\n\n\n\n                   ModF...",
+    "llm_context": "The image likely shows a synthesizer's \"ModFX\" panel, specifically the \"Chorus\" mode, with the equalizer enabled. The surrounding text discusses the inclusion of a chorus effect in synthesizers."
+  },
+  {
+    "image_path": "p073_refidx1.png",
+    "page": 73,
+    "bbox": [
+      99,
+      258,
+      496,
+      423
+    ],
+    "surrounding_text_snippet": "nalogue purists may shudder at the mention of built in chorus (which suggests a lack\neef’ in other departments), but we believe no synthesizer should be without one:\n\n\n\n\n\n                  ModFX panel...",
+    "llm_context": "The image likely depicts a synthesizer's \"ModFX\" panel, specifically showing the \"Chorus\" mode with an equalizer enabled. The surrounding text discusses the inclusion of a chorus effect in synthesizers."
+  },
+  {
+    "image_path": "p074_refidx0.png",
+    "page": 74,
+    "bbox": [
+      84,
+      414,
+      516,
+      604
+    ],
+    "surrounding_text_snippet": "four delay lines, each with time scaling and pan controls. Two flavours of feedback with\ninserted low and highpass filters can run at the same time, feeding each other...\n\n\n\n\n\n             Delay modul...",
+    "llm_context": "The image likely illustrates the signal flow or user interface of a delay module, specifically in a \"stereo 2\" or ping-pong mode, showcasing feedback paths and filter options."
+  },
+  {
+    "image_path": "p074_refidx1.png",
+    "page": 74,
+    "bbox": [
+      92,
+      421,
+      503,
+      591
+    ],
+    "surrounding_text_snippet": "our delay lines, each with time scaling and pan controls. Two flavours of feedback with\nnserted low and highpass filters can run at the same time, feeding each other...\n\n\n\n\n\n            Delay module i...",
+    "llm_context": "The image likely illustrates the delay module in \"stereo 2\" mode, specifically highlighting the ping-pong regeneration achieved through the \"x-back\" feature. It's probably a visual aid to explain how the delay module functions in this particular configuration."
+  },
+  {
+    "image_path": "p075_refidx0.png",
+    "page": 75,
+    "bbox": [
+      91,
+      354,
+      510,
+      540
+    ],
+    "surrounding_text_snippet": "The original Rev1 Zebra2 reverb unit. See also NuRev.\n\n\n\n\n\n                              Reverb panel, ‘Reverb’ mode\n\nTh                         i  th              l     t   f     b             t     ...",
+    "llm_context": "The image is likely a close-up of a reverb panel, specifically in \"Reverb\" mode, possibly from the original Rev1 Zebra2 reverb unit."
+  },
+  {
+    "image_path": "p075_refidx1.png",
+    "page": 75,
+    "bbox": [
+      98,
+      361,
+      497,
+      527
+    ],
+    "surrounding_text_snippet": "he original Rev1 Zebra2 reverb unit. See also NuRev.\n\n\n\n\n\n                             Reverb panel, ‘Reverb’ mode",
+    "llm_context": "The image at index 1 on page 75 is likely a screenshot or photograph of a reverb panel, specifically in \"Reverb\" mode, possibly from a software plugin or hardware unit related to the Zebra2 synthesizer."
+  },
+  {
+    "image_path": "p076_refidx0.png",
+    "page": 76,
+    "bbox": [
+      91,
+      448,
+      510,
+      634
+    ],
+    "surrounding_text_snippet": "The original Zebra2 global compressor:\n\n\n\n\n\n                           The compressor in smooth mode\n\n  TYPE",
+    "llm_context": "Based on the surrounding text, the image near index 0 on PDF page 76 is likely illustrating or demonstrating the **Zebra2 global compressor, specifically showing its behavior in \"smooth mode.\"** The text \"The original Zebra2 global compressor\" and \"The compressor in smooth mode\" strongly suggest this."
+  },
+  {
+    "image_path": "p076_refidx1.png",
+    "page": 76,
+    "bbox": [
+      98,
+      455,
+      497,
+      621
+    ],
+    "surrounding_text_snippet": "he original Zebra2 global compressor:\n\n\n\n\n\n                          The compressor in smooth mode",
+    "llm_context": "The image likely illustrates or demonstrates the compressor in Zebra2, specifically showcasing its behavior in \"smooth mode.\""
+  },
+  {
+    "image_path": "p077_refidx0.png",
+    "page": 77,
+    "bbox": [
+      88,
+      485,
+      513,
+      670
+    ],
+    "surrounding_text_snippet": "p         q         g    p            q    y    g     g\npoint and drag vertically to adjust the Q (width/slope) of the band. Right-click in the back-\nground for basic editing functions: copy, paste, c...",
+    "llm_context": "The image likely illustrates the interface of an equalizer module, specifically highlighting bass and treble boost capabilities and a dip around 1 kHz."
+  },
+  {
+    "image_path": "p077_refidx1.png",
+    "page": 77,
+    "bbox": [
+      95,
+      492,
+      500,
+      657
+    ],
+    "surrounding_text_snippet": "oint and drag vertically to adjust the Q (width/slope) of the band. Right-click in the back\nround for basic editing functions: copy, paste, clear (flatten).\n\n\n\n\n\n                   Equalizer module, b...",
+    "llm_context": "The image is likely a screenshot or diagram of an equalizer module, specifically one with bass and treble boost capabilities and a dip around 1 kHz. The surrounding text describes how to adjust the Q (width/slope) of the band and basic editing functions."
+  },
+  {
+    "image_path": "p078_refidx0.png",
+    "page": 78,
+    "bbox": [
+      91,
+      284,
+      510,
+      468
+    ],
+    "surrounding_text_snippet": "A smooth plate reverb with pre-delay. See also the original REVERB.\n\n\n\n\n\n                                 The NuRev module\n\n  PRE DELAY",
+    "llm_context": "The image likely depicts the \"NuRev module,\" a digital audio effect plugin or hardware unit. The surrounding text describes it as a \"smooth plate reverb with pre-delay,\" suggesting the image shows the module's interface or physical appearance."
+  },
+  {
+    "image_path": "p078_refidx1.png",
+    "page": 78,
+    "bbox": [
+      98,
+      291,
+      497,
+      456
+    ],
+    "surrounding_text_snippet": "smooth plate reverb with pre-delay. See also the original REVERB.\n\n\n\n\n\n                               The NuRev module",
+    "llm_context": "The image likely depicts the \"NuRev module,\" a digital audio effect, possibly a plugin or hardware unit, that emulates a smooth plate reverb with pre-delay. It's likely being presented as an evolution or alternative to an earlier \"REVERB\" effect."
+  },
+  {
+    "image_path": "p079_refidx0.png",
+    "page": 79,
+    "bbox": [
+      84,
+      184,
+      518,
+      371
+    ],
+    "surrounding_text_snippet": "Click on a cell in the effects grid and select a Res module from the menu…\n\n\n\n\n\n                             The Resonator module",
+    "llm_context": "The image likely illustrates the Resonator module within a software interface, based on the text describing how to select a Res module from a menu after clicking on a cell in an effects grid."
+  },
+  {
+    "image_path": "p079_refidx1.png",
+    "page": 79,
+    "bbox": [
+      85,
+      184,
+      510,
+      361
+    ],
+    "surrounding_text_snippet": "Click on a cell in the effects grid and select a Res module from the menu…\n\n\n\n\n\n                             The Resonator module",
+    "llm_context": "Context: The image likely illustrates the Resonator module within a software interface, possibly for audio processing or sound design, based on the surrounding instructions about selecting a \"Res module\" from a menu."
+  },
+  {
+    "image_path": "p080_refidx0.png",
+    "page": 80,
+    "bbox": [
+      49,
+      183,
+      552,
+      267
+    ],
+    "surrounding_text_snippet": "If you would like to experiment with an existing arpeggio, load How Money More Times\nfrom the Zebra2 ‘Lupins’ folder and play with all settings…\n\n\n\n\n\n            Arpeggiator settings used in the Zebra...",
+    "llm_context": "The image likely shows the arpeggiator settings used in the Zebra2 preset \"How Money More Times.\" The surrounding text refers to experimenting with the preset and provides instructions for recreating it."
+  },
+  {
+    "image_path": "p080_refidx1.png",
+    "page": 80,
+    "bbox": [
+      56,
+      190,
+      539,
+      254
+    ],
+    "surrounding_text_snippet": "y                p                   g  p gg   ,               y\nfrom the Zebra2 ‘Lupins’ folder and play with all settings…\n\n\n\n\n\n            Arpeggiator settings used in the Zebra2 preset ‘How Money ...",
+    "llm_context": "The image likely shows the arpeggiator settings used in a specific Zebra2 synthesizer preset called \"How Money More Times.\" The purpose is likely to illustrate or document these settings for users of the Zebra2 software."
+  },
+  {
+    "image_path": "p081_refidx0.png",
+    "page": 81,
+    "bbox": [
+      49,
+      105,
+      552,
+      157
+    ],
+    "surrounding_text_snippet": "The row of options along the bottom affect the entire arpeggio / sequence:\n\n\n\n\n\n  LOOP\n  The direction in which the note buffer (see ORDER below) is played back:",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p081_refidx1.png",
+    "page": 81,
+    "bbox": [
+      56,
+      112,
+      539,
+      144
+    ],
+    "surrounding_text_snippet": "The row of options along the bottom affect the entire arpeggio / sequence:\n\n\n\n\n\n  LOOP",
+    "llm_context": "The image likely illustrates options for controlling the looping behavior of an arpeggio or musical sequence."
+  },
+  {
+    "image_path": "p081_refidx2.png",
+    "page": 81,
+    "bbox": [
+      217,
+      573,
+      378,
+      642
+    ],
+    "surrounding_text_snippet": "two different parameters: 1) the number o\nh     t    i      t  i   d f     th  b  ff    (   ST",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p082_refidx0.png",
+    "page": 82,
+    "bbox": [
+      190,
+      147,
+      411,
+      375
+    ],
+    "surrounding_text_snippet": "described below appear 16 times, once for each s\ngios more lively…\n\n\n\n\n\nediately below the step index (1 in this image) shows",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p082_refidx1.png",
+    "page": 82,
+    "bbox": [
+      197,
+      154,
+      398,
+      362
+    ],
+    "surrounding_text_snippet": "ios more lively…",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p083_refidx0.png",
+    "page": 83,
+    "bbox": [
+      70,
+      126,
+      539,
+      157
+    ],
+    "surrounding_text_snippet": "(g     g   )\nAs arpeggiators automatically play / release notes, the gate times need to be defined.\n\n\n\n        0          1           2          3           4           5",
+    "llm_context": "Context: The image likely illustrates gate time settings or options within an arpeggiator interface, possibly showing a range of values (0-5) for adjusting the duration of notes played by the arpeggiator."
+  },
+  {
+    "image_path": "p084_refidx0.png",
+    "page": 84,
+    "bbox": [
+      49,
+      105,
+      552,
+      217
+    ],
+    "surrounding_text_snippet": "p  g      g\n\nClick on the XY1 tab in the lower bar...\n\n\n\n\n\n                    X/Y programming panel #1 in ‘Batflaps Performer’\n\nH  d       t  t    i  l",
+    "llm_context": "The image likely shows the \"X/Y programming panel #1\" within the \"Batflaps Performer\" software. It's probably a screenshot or diagram illustrating the user interface element being described in the surrounding text, which instructs the user to click on the \"XY1\" tab."
+  },
+  {
+    "image_path": "p084_refidx1.png",
+    "page": 84,
+    "bbox": [
+      56,
+      112,
+      539,
+      204
+    ],
+    "surrounding_text_snippet": "Click on the XY1 tab in the lower bar...\n\n\n\n\n\n                    X/Y programming panel #1 in ‘Batflaps Performer’",
+    "llm_context": "Context: The image likely depicts the X/Y programming panel #1 within a software application called 'Batflaps Performer'. It's probably a screenshot or diagram illustrating the user interface element mentioned in the surrounding text."
+  },
+  {
+    "image_path": "p085_refidx0.png",
+    "page": 85,
+    "bbox": [
+      63,
+      270,
+      552,
+      335
+    ],
+    "surrounding_text_snippet": "the grids, more targets will appear. Note that you can use drag & drop assignment here\n– simply click on a target selector and drag into the SYNTH window…\n\n\n\n\n\n            target selectors            ...",
+    "llm_context": "The image likely illustrates target selectors and range bars (bipolar and unipolar) with limit markers, probably within a software interface related to sound synthesis (SYNTH window)."
+  },
+  {
+    "image_path": "p085_refidx1.png",
+    "page": 85,
+    "bbox": [
+      70,
+      277,
+      539,
+      322
+    ],
+    "surrounding_text_snippet": "g      ,       g       pp             y            g     p    g\n– simply click on a target selector and drag into the SYNTH window…\n\n\n\n\n\n            target selectors             bipolar (top) and unip...",
+    "llm_context": "The image likely illustrates how to select a target and drag it into a \"SYNTH\" window, possibly within a software application. The image probably shows target selectors and bipolar/unipolar range bars."
+  },
+  {
+    "image_path": "p086_refidx0.png",
+    "page": 86,
+    "bbox": [
+      270,
+      106,
+      325,
+      161
+    ],
+    "surrounding_text_snippet": "onfiguratio\n\n\n\n\n\n e top righthand corne",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p086_refidx1.png",
+    "page": 86,
+    "bbox": [
+      135,
+      229,
+      466,
+      319
+    ],
+    "surrounding_text_snippet": "here you can adjust the UI size and brightness as well as connect Zebra p\nIDI continuous controllers. A row of 4 buttons appears:\n\n\n\n\n\ne MIDI Learn (L), MIDI Table (≣), Preferences (“tools”) and Close...",
+    "llm_context": "The image likely shows a user interface element related to adjusting UI size, brightness, and MIDI controller settings within a software application."
+  },
+  {
+    "image_path": "p086_refidx2.png",
+    "page": 86,
+    "bbox": [
+      142,
+      236,
+      453,
+      306
+    ],
+    "surrounding_text_snippet": "DI continuous controllers. A row of 4 buttons appears:\n\n\n\n\n\n MIDI Learn (L), MIDI Table (≣), Preferences (“tools”) and Close (cog",
+    "llm_context": "The image likely depicts the user interface elements (specifically, a row of four buttons) of a digital audio workstation (DAW) or similar music production software, related to MIDI control and preferences."
+  },
+  {
+    "image_path": "p087_refidx0.png",
+    "page": 87,
+    "bbox": [
+      56,
+      93,
+      102,
+      131
+    ],
+    "surrounding_text_snippet": "MIDI Lear\n\n        Zeb\n          hard\n          then",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p087_refidx1.png",
+    "page": 87,
+    "bbox": [
+      49,
+      141,
+      552,
+      503
+    ],
+    "surrounding_text_snippet": "hardware controller unit or from your sequencer program. Click on the cogwheel\n          then on the MIDI Learn symbol (L) to open this view…\n\n\n\n\n\nThe overlay shows all MIDI-learnable elements as sele...",
+    "llm_context": "The image likely shows a graphical user interface (GUI) overlay within a music production software, highlighting MIDI-learnable controls. The purpose is to illustrate how to assign MIDI controllers to software parameters."
+  },
+  {
+    "image_path": "p087_refidx2.png",
+    "page": 87,
+    "bbox": [
+      56,
+      149,
+      539,
+      491
+    ],
+    "surrounding_text_snippet": "then on the MIDI Learn symbol (L) to open this view…\n\n\n\n\n\nThe overlay shows all MIDI-learnable elements as selectable outlines. Controls that are",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p088_refidx0.png",
+    "page": 88,
+    "bbox": [
+      56,
+      89,
+      102,
+      127
+    ],
+    "surrounding_text_snippet": "MIDI Table\n\n           Clic\n           of a",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p088_refidx1.png",
+    "page": 88,
+    "bbox": [
+      64,
+      131,
+      553,
+      279
+    ],
+    "surrounding_text_snippet": "g                                                    [          p\n        of all current MIDI CC assignments:\n\n\n\n\n\nParameter\nThe first field displays/selects one of ZebraHZ’s many parameters, which ar...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p088_refidx2.png",
+    "page": 88,
+    "bbox": [
+      71,
+      138,
+      540,
+      266
+    ],
+    "surrounding_text_snippet": "of all current MIDI CC assignments:\n\n\n\n\n\nParameter",
+    "llm_context": "Based on the provided text snippet (\"Parameter\", \"Context Description\", and \"of all current MIDI CC assignments\"), the image at index 2 on page 88 is likely a **table or diagram illustrating MIDI Continuous Controller (CC) assignments and their corresponding functions or descriptions.**"
+  },
+  {
+    "image_path": "p089_refidx0.png",
+    "page": 89,
+    "bbox": [
+      59,
+      184,
+      99,
+      221
+    ],
+    "surrounding_text_snippet": "Preferenc\n\n         Click\n        dow,\n\n\nControl",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p089_refidx1.png",
+    "page": 89,
+    "bbox": [
+      325,
+      263,
+      552,
+      684
+    ],
+    "surrounding_text_snippet": "feel\n\n\n\nayed\n n be\nnions\n heel\nal.\n\n\n\n\n Note\n e by\n\n\n\n\n\n ually\n n off\n\n\n\n aph.\n e.",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p089_refidx2.png",
+    "page": 89,
+    "bbox": [
+      332,
+      270,
+      539,
+      671
+    ],
+    "surrounding_text_snippet": "eel\n\n\n\nyed\n be\nons\n eel\n .\n\n\n\n\note\n by\n\n\n\n\n\nally\n off\n\n\n\nph.",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p091_refidx0.png",
+    "page": 91,
+    "bbox": [
+      124,
+      172,
+      477,
+      300
+    ],
+    "surrounding_text_snippet": "hing, e.g. Lane 1 Pan (the target doesn’t actually matter for this experime\napper will appear in the modulators pane:\n\n\n\n\n\ne the MODE to Map Smooth. Select LFO1 as MOD source. Click on [EDITO\nd the ma...",
+    "llm_context": "The image likely illustrates the settings or interface of a music production software, specifically showing how to configure an LFO (Low-Frequency Oscillator) to modulate a parameter (\"Lane 1 Pan\") using a mapping function. The text describes steps to set the mode to \"Map Smooth,\" select LFO1 as the modulation source, and edit the mapping function to straighten it."
+  },
+  {
+    "image_path": "p091_refidx1.png",
+    "page": 91,
+    "bbox": [
+      131,
+      180,
+      464,
+      287
+    ],
+    "surrounding_text_snippet": "ng, e.g. Lane 1 Pan (the target doesn t actually matter for this experim\npper will appear in the modulators pane:\n\n\n\n\n\n the MODE to Map Smooth. Select LFO1 as MOD source. Click on [EDI\n the map set th...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p091_refidx2.png",
+    "page": 91,
+    "bbox": [
+      124,
+      338,
+      477,
+      466
+    ],
+    "surrounding_text_snippet": "p                                                                                 [\nd the map, set the extreme left and right values to maximum, right-click in the\n and select Straighten. CLOSE the ex...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p091_refidx3.png",
+    "page": 91,
+    "bbox": [
+      131,
+      345,
+      464,
+      453
+    ],
+    "surrounding_text_snippet": "the map, set the extreme left and right values to maximum, right-click in th\nand select Straighten. CLOSE the expanded editor. It should now look like\n\n\n\n\n\n ote and turn down the LFO rate (this trick ...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p091_refidx4.png",
+    "page": 91,
+    "bbox": [
+      124,
+      522,
+      477,
+      650
+    ],
+    "surrounding_text_snippet": "tralize\n\n\n\n\n\nntext menu of the modulation mappers include a special function adopted from\n that can use maps as audio waveforms (ACE and Bazille): Spectralize inte\np as the first 128 partials of the h...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p091_refidx5.png",
+    "page": 91,
+    "bbox": [
+      131,
+      529,
+      464,
+      637
+    ],
+    "surrounding_text_snippet": "ralize\n\n\n\n\n\n text menu of the modulation mappers include a special function adopted fr\nhat can use maps as audio waveforms (ACE and Bazille): Spectralize in",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p092_refidx0.png",
+    "page": 92,
+    "bbox": [
+      49,
+      113,
+      416,
+      246
+    ],
+    "surrounding_text_snippet": "It is sometimes necessary to invert unipolar modulation sources, for instan\ncross-fade between two lanes of the main grid. Here’s how to do that:\n\n\n\n\n\nA Mix module can crossfade between signals at sou...",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p092_refidx1.png",
+    "page": 92,
+    "bbox": [
+      56,
+      120,
+      403,
+      234
+    ],
+    "surrounding_text_snippet": "It is sometimes necessary to invert unipolar modulation sources, for ins\ncross-fade between two lanes of the main grid. Here’s how to do that:\n\n\n\n\n\nA Mix module can crossfade between signals at source...",
+    "llm_context": "The image likely illustrates a method for inverting unipolar modulation sources, possibly using a Mix module to crossfade between signals. The context suggests it's a solution for converting unipolar signals to bipolar signals and creating non-linear crossfades."
+  },
+  {
+    "image_path": "p092_refidx2.png",
+    "page": 92,
+    "bbox": [
+      402,
+      113,
+      552,
+      237
+    ],
+    "surrounding_text_snippet": "rces, for instance if you want to\nto do that:\n\n\n\n\n\ng. 2 oscillator volumes, but the\nreate non-linear curves",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p092_refidx3.png",
+    "page": 92,
+    "bbox": [
+      409,
+      120,
+      540,
+      224
+    ],
+    "surrounding_text_snippet": "ces, for instance if you want to\no do that:\n\n\n\n\n\n . 2 oscillator volumes, but the",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p092_refidx4.png",
+    "page": 92,
+    "bbox": [
+      117,
+      312,
+      484,
+      423
+    ],
+    "surrounding_text_snippet": "olute value\n\n\n\n\n\nexample always outputs positive pitch wheel values – minus times minus is plus!\n\n  t   d         t    l",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p092_refidx5.png",
+    "page": 92,
+    "bbox": [
+      124,
+      319,
+      471,
+      410
+    ],
+    "surrounding_text_snippet": "lute value\n\n\n\n\n\nxample always outputs positive pitch wheel values – minus times minus is plu",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p092_refidx6.png",
+    "page": 92,
+    "bbox": [
+      117,
+      468,
+      484,
+      579
+    ],
+    "surrounding_text_snippet": "ato under control\n\n\n\n\n\n  the mod-wheel is at minimum, output is all ATouch, and when at maximum, outp\nodWhl – so the sum of the sources always adds up to 100%.",
+    "llm_context": "Context unclear from surrounding text."
+  },
+  {
+    "image_path": "p092_refidx7.png",
+    "page": 92,
+    "bbox": [
+      124,
+      475,
+      471,
+      566
+    ],
+    "surrounding_text_snippet": "to under control\n\n\n\n\n\nthe mod-wheel is at minimum, output is all ATouch, and when at maximum, ou\ndWhl  so the sum of the sources always adds up to 100%",
+    "llm_context": "Context unclear from surrounding text."
+  }
+]
